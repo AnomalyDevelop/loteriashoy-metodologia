@@ -41,4 +41,5 @@ La tabla de cobertura y sus metadatos originales se publican bajo [Creative Comm
 - [Estadísticas y juego responsable](estadisticas-responsables.html)
 - [Preguntas frecuentes sobre los datos](preguntas-frecuentes.html)
 - [Guía para medios e investigadores](medios-e-investigadores.html)
+- [Informe reproducible de cobertura del 14 de noviembre de 2026](reporte-cobertura-2026-11-14.html)
 
