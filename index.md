@@ -29,3 +29,16 @@ La tabla de cobertura y sus metadatos originales se publican bajo [Creative Comm
 
 [Ver la explicación de los campos y la licencia](datos.html)
 
+## Guías de reutilización
+
+- [Diccionario de datos](diccionario-de-datos.html)
+- [Procedencia y fuentes](procedencia-y-fuentes.html)
+- [Cómo trabajar con el CSV](usar-csv.html)
+- [Cómo trabajar con el JSON](usar-json.html)
+- [Cobertura, huecos y límites](cobertura-y-huecos.html)
+- [Correcciones y versionado](correcciones-y-versionado.html)
+- [Cómo citar los datos](citar-los-datos.html)
+- [Estadísticas y juego responsable](estadisticas-responsables.html)
+- [Preguntas frecuentes sobre los datos](preguntas-frecuentes.html)
+- [Guía para medios e investigadores](medios-e-investigadores.html)
+
